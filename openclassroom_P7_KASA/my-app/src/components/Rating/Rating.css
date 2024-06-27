@@ -1,0 +1,15 @@
+.rating {
+    display: flex;
+    gap: 8px;
+    font-size: 22px;
+
+  }
+  
+  .fa-star {
+    color: lightgray;
+  }
+  
+  .fa-star.filled {
+    color: #ff6060;
+  }
+  
